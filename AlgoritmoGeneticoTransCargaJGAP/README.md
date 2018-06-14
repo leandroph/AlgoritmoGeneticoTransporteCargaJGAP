@@ -1,7 +1,5 @@
-# AlgoritmoGeneticoTransporteCarga
+# AlgoritmoGeneticoTransporteCargaJGAP
 
-#Projeto desenvolvido para disciplina de Inteligência Artificial
+#Algoritmo genético desenvolvido com a biblioteca JGAP
 
-#1º semestre/2018
-
-#UNIJUÍ - Universidade Regional do Noroeste do Estado do Rio Grande do Sul
+#Bilicoteca que auxilia na escrita de um AG
